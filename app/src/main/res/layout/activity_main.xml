@@ -1,0 +1,223 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	xmlns:ads="http://schemas.android.com/apk/res-auto"
+	android:id="@+id/drawer_layout"
+	android:orientation="vertical"
+	android:background="@drawable/background"
+	tools:context="com.radiofm.radiofm.MainActivity">
+
+
+	<RelativeLayout
+		android:id="@+id/mainLayout"
+		android:layout_width="match_parent"
+		android:layout_height="471dp"
+		android:layout_weight="1">
+
+		<ImageView
+			android:layout_width="30dp"
+			android:layout_height="30dp"
+			android:id="@+id/btnatras"
+			android:background="@drawable/backred"
+			android:layout_marginLeft="20dp"
+			android:layout_marginTop="10dp"/>
+
+		<TextView
+			android:id="@+id/titleTextView"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_alignParentTop="true"
+			android:layout_centerHorizontal="true"
+			android:layout_marginTop="10dp"
+			android:gravity="center_horizontal"
+			android:minWidth="255dp"
+			android:text="@string/app_name1"
+			android:textAppearance="?android:attr/textAppearanceLarge"
+			android:textSize="25sp"
+			android:textStyle="italic" />
+
+		<View
+			android:layout_width="fill_parent"
+			android:layout_height="1.5dip"
+			android:layout_below="@+id/titleTextView"
+			android:layout_marginLeft="12dp"
+			android:layout_marginRight="12dp"
+			android:background="@android:color/background_light" />
+
+
+		<ImageView
+			android:id="@+id/stationImageView"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_above="@+id/statusTextView"
+			android:layout_below="@+id/trackTextView"
+			android:layout_marginBottom="10dp"
+			android:layout_marginLeft="100dp"
+			android:layout_marginRight="100dp"
+			android:layout_marginTop="100dp"
+			android:contentDescription=""
+			android:src="@drawable/station_default"
+			tools:ignore="ContentDescription" />
+
+		<TextView
+			android:id="@+id/artistTextView"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_alignParentTop="true"
+			android:layout_marginLeft="15dp"
+			android:layout_marginTop="55dp"
+			android:gravity="left"
+			android:text="@string/artist"
+			android:textSize="12sp" />
+
+		<TextView
+			android:id="@+id/trackTextView"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_alignLeft="@+id/artistTextView"
+			android:layout_below="@+id/artistTextView"
+			android:gravity="left"
+			android:text="@string/current_playing_track"
+			android:textAppearance="?android:attr/textAppearanceMedium"
+			android:textSize="14sp" />
+
+		<TextView
+			android:id="@+id/albumTextView"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_alignBaseline="@+id/artistTextView"
+			android:layout_alignBottom="@+id/artistTextView"
+			android:layout_alignRight="@+id/volumebar"
+			android:gravity="right"
+			android:text="@string/album"
+			android:textSize="12sp" />
+
+		<TextView
+			android:id="@+id/timeTextView"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_alignBaseline="@+id/trackTextView"
+			android:layout_alignBottom="@+id/trackTextView"
+			android:layout_alignRight="@+id/volumebar"
+			android:gravity="right"
+			android:text=""
+			android:textSize="12sp" />
+
+		<TextView
+			android:id="@+id/statusTextView"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_above="@+id/volumebar"
+			android:layout_centerHorizontal="true"
+			android:paddingBottom="5dp"
+			android:text="@string/status_noconnection"
+			android:textSize="12sp" />
+
+		<Button
+			android:id="@+id/PauseButton"
+			android:layout_width="40dp"
+			android:layout_height="40dp"
+			android:layout_alignParentBottom="true"
+			android:layout_marginBottom="0dp"
+			android:layout_centerHorizontal="true"
+			android:background="@drawable/btn_pause"
+			android:onClick="onClickPauseButton" />
+
+		<Button
+			android:id="@+id/PlayButton"
+			android:layout_width="40dp"
+			android:layout_height="40dp"
+			android:layout_alignLeft="@+id/PauseButton"
+			android:layout_alignParentBottom="true"
+			android:background="@drawable/btn_play"
+			android:onClick="onClickPlayButton" />
+
+
+
+		<Button
+			android:id="@+id/NextButton"
+			android:layout_width="40dp"
+			android:layout_height="40dp"
+			android:background="@drawable/btn_next"
+			android:onClick="onClickNextButton"
+			tools:ignore="RelativeOverlap"
+			android:layout_alignBottom="@+id/PauseButton"
+			android:layout_marginLeft="65dp"
+			android:layout_alignLeft="@+id/PauseButton"/>
+
+		<Button
+			android:id="@+id/PreviousButton"
+			android:layout_width="40dp"
+			android:layout_height="40dp"
+			android:background="@drawable/btn_previous"
+			android:onClick="onClickPreviousButton"
+			android:layout_alignBottom="@+id/NextButton"
+			android:layout_marginRight="65dp"
+			android:layout_alignRight="@+id/PauseButton"/>
+
+		<ImageView
+			android:id="@+id/vol"
+			android:layout_width="25dp"
+			android:layout_height="match_parent"
+			android:layout_alignBottom="@+id/volumebar"
+			android:layout_alignTop="@+id/volumebar"
+			android:layout_marginLeft="35dp"
+			android:src="@drawable/icon_volume"
+			tools:ignore="ContentDescription" />
+
+		<SeekBar
+			android:id="@+id/volumebar"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_above="@+id/PlayButton"
+			android:layout_toRightOf="@+id/vol"
+			android:layout_marginRight="35dp"
+			android:layout_marginBottom="15dp"
+			android:layout_centerHorizontal="true"
+			android:layout_centerVertical="true"
+			android:max="100"
+			android:progress="50"
+			android:secondaryProgress="0"
+			android:progressDrawable="@drawable/progress_drawable"
+			android:thumb="@drawable/thumb_drawable"
+			android:paddingLeft="10dp"
+			android:paddingRight="10dp"/>
+
+
+
+	</RelativeLayout>
+
+	<LinearLayout
+		android:layout_width="fill_parent"
+		android:layout_height="60dp"
+		android:gravity="center_horizontal"
+		android:layout_weight="0"
+		android:minHeight="50dp"
+		android:orientation="horizontal">
+
+		<Button
+			android:id="@+id/StopButton"
+			android:layout_width="40dp"
+			android:layout_height="40dp"
+			android:background="@drawable/btn_stop"
+			android:onClick="onClickStopButton"
+			android:layout_marginTop="8dp"
+			tools:ignore="NotSibling"
+			android:layout_alignParentBottom="true"/>
+	</LinearLayout>
+
+
+
+	<com.google.android.gms.ads.AdView
+		android:id="@+id/adView"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_centerHorizontal="true"
+		android:layout_alignParentBottom="true"
+		android:minHeight="50dp"
+		ads:adSize="BANNER"
+		ads:adUnitId="@string/banner_ad_unit_id">
+	</com.google.android.gms.ads.AdView>
+
+</LinearLayout>

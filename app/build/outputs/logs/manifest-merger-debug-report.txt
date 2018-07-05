@@ -1,0 +1,263 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:2:1-94:12
+INJECTED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:2:1-94:12
+INJECTED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:2:1-94:12
+MERGED from [com.android.support:support-v13:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\2be4d536105d8bacc3a38370b7a1fe60\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\3db8641b559370783a7c2523c51b3344\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.0.2.aar\e9ad644d440ad194352a9f2446b63c5f\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.0.2.aar\377920f85e3df4a079cf32c6f582a277\AndroidManifest.xml:16:1-33:12
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.2.aar\ae7c5ca9dfdd818353a1b9fd4140dc8a\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.2.aar\4ef9653ada43a28a7c74c85862d06308\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.0.2.aar\bd0637d2497ceb785b50dd071042dc77\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.2.aar\083247ad9e71196bc29d46df59be55d1\AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\c10a24c5e8f7d32c3ae21b717cd93b98\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ef188da8bfda006cd57104e01d45669f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\34289ec438c9ae740ab17318da6992ef\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\ea075c9f59568de81e403bda3e58d728\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\8b3a748f82de2fc5fb6df414d76c5fa7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\e512a8f89f399a98c1cc1b50d6cab278\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\62591efa4791bece820897cb013abcbe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9a39bcaf2bbd6e3fee14f8d4769cf5ed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c90cb0a837fe0b5ce8f5f3825812c83d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f5626302e820ae0268476957f77794f6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\5423e8c192843ba6067a3bd91e889fcb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a54a306580315247e01012cda07a35a3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e8c3eeb74806559ca9226af22950f776\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e8ad0880b1924caf6071834eb8272293\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\32ea629bda1a1f0ec06d12a10864d287\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\931081fff241ff4c89571e53760f117a\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:2:1-94:12
+INJECTED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:2:1-94:12
+	package
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-v13:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\2be4d536105d8bacc3a38370b7a1fe60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\2be4d536105d8bacc3a38370b7a1fe60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\3db8641b559370783a7c2523c51b3344\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\3db8641b559370783a7c2523c51b3344\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.0.2.aar\e9ad644d440ad194352a9f2446b63c5f\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.0.2.aar\e9ad644d440ad194352a9f2446b63c5f\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.0.2.aar\377920f85e3df4a079cf32c6f582a277\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.0.2.aar\377920f85e3df4a079cf32c6f582a277\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.2.aar\ae7c5ca9dfdd818353a1b9fd4140dc8a\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.2.aar\ae7c5ca9dfdd818353a1b9fd4140dc8a\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.2.aar\4ef9653ada43a28a7c74c85862d06308\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.2.aar\4ef9653ada43a28a7c74c85862d06308\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.0.2.aar\bd0637d2497ceb785b50dd071042dc77\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.0.2.aar\bd0637d2497ceb785b50dd071042dc77\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.2.aar\083247ad9e71196bc29d46df59be55d1\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.2.aar\083247ad9e71196bc29d46df59be55d1\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\c10a24c5e8f7d32c3ae21b717cd93b98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\c10a24c5e8f7d32c3ae21b717cd93b98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ef188da8bfda006cd57104e01d45669f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ef188da8bfda006cd57104e01d45669f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\34289ec438c9ae740ab17318da6992ef\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\34289ec438c9ae740ab17318da6992ef\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\ea075c9f59568de81e403bda3e58d728\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\ea075c9f59568de81e403bda3e58d728\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\8b3a748f82de2fc5fb6df414d76c5fa7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\8b3a748f82de2fc5fb6df414d76c5fa7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\e512a8f89f399a98c1cc1b50d6cab278\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\e512a8f89f399a98c1cc1b50d6cab278\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\62591efa4791bece820897cb013abcbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\62591efa4791bece820897cb013abcbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9a39bcaf2bbd6e3fee14f8d4769cf5ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9a39bcaf2bbd6e3fee14f8d4769cf5ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c90cb0a837fe0b5ce8f5f3825812c83d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c90cb0a837fe0b5ce8f5f3825812c83d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f5626302e820ae0268476957f77794f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f5626302e820ae0268476957f77794f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\5423e8c192843ba6067a3bd91e889fcb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\5423e8c192843ba6067a3bd91e889fcb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a54a306580315247e01012cda07a35a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a54a306580315247e01012cda07a35a3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e8c3eeb74806559ca9226af22950f776\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e8c3eeb74806559ca9226af22950f776\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e8ad0880b1924caf6071834eb8272293\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e8ad0880b1924caf6071834eb8272293\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\32ea629bda1a1f0ec06d12a10864d287\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\32ea629bda1a1f0ec06d12a10864d287\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\931081fff241ff4c89571e53760f117a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\931081fff241ff4c89571e53760f117a\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:6:5-8:41
+	android:targetSdkVersion
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:7:9-35
+		INJECTED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.0.2.aar\377920f85e3df4a079cf32c6f582a277\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.0.2.aar\377920f85e3df4a079cf32c6f582a277\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.0.2.aar\377920f85e3df4a079cf32c6f582a277\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.0.2.aar\377920f85e3df4a079cf32c6f582a277\AndroidManifest.xml:21:5-78
+	android:name
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:14:22-77
+application
+ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:16:5-92:19
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.0.2.aar\377920f85e3df4a079cf32c6f582a277\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.0.2.aar\377920f85e3df4a079cf32c6f582a277\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.2.aar\ae7c5ca9dfdd818353a1b9fd4140dc8a\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.2.aar\ae7c5ca9dfdd818353a1b9fd4140dc8a\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.2.aar\4ef9653ada43a28a7c74c85862d06308\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.2.aar\4ef9653ada43a28a7c74c85862d06308\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.0.2.aar\bd0637d2497ceb785b50dd071042dc77\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.0.2.aar\bd0637d2497ceb785b50dd071042dc77\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.2.aar\083247ad9e71196bc29d46df59be55d1\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.2.aar\083247ad9e71196bc29d46df59be55d1\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\34289ec438c9ae740ab17318da6992ef\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\34289ec438c9ae740ab17318da6992ef\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:19:9-42
+	android:icon
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:18:9-39
+	android:allowBackup
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:20:9-40
+activity#com.radiofm.radiofm.Main3Activity
+ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:24:9-34:20
+	android:name
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:25:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:32:27-74
+activity#com.radiofm.radiofm.StationList
+ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:36:9-42:20
+	android:label
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:39:13-46
+	android:launchMode
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:40:13-48
+	android:configChanges
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:38:13-63
+	android:theme
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:41:13-66
+	android:name
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:37:13-40
+activity#com.radiofm.radiofm.MainActivity
+ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:44:9-55:20
+	android:parentActivityName
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:50:13-56
+	android:label
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:47:13-45
+	android:launchMode
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:48:13-48
+	android:configChanges
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:46:13-63
+	android:theme
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:49:13-66
+	android:name
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:45:13-41
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:51:13-53:49
+	android:value
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:53:17-47
+	android:name
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:52:17-63
+activity#com.radiofm.radiofm.LastFMCover
+ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:58:9-65:20
+	android:label
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:61:13-46
+	android:launchMode
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:62:13-48
+	android:configChanges
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:60:13-63
+	android:theme
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:63:13-66
+	android:name
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:59:13-40
+activity#com.radiofm.radiofm.Webview
+ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:67:9-77:20
+	android:parentActivityName
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:72:13-56
+	android:label
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:70:13-46
+	android:launchMode
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:71:13-48
+	android:name
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:68:13-36
+service#com.radiofm.radiofm.RadioService
+ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:82:9-84:38
+	android:enabled
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:84:13-35
+	android:name
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:83:13-41
+activity#com.google.android.gms.ads.AdActivity
+ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:88:9-90:125
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.0.2.aar\377920f85e3df4a079cf32c6f582a277\AndroidManifest.xml:26:9-29:64
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.0.2.aar\377920f85e3df4a079cf32c6f582a277\AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:90:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.0.2.aar\377920f85e3df4a079cf32c6f582a277\AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from C:\Users\jose.garcia\AndroidStudioProjects\RadioFM\app\src\main\AndroidManifest.xml:89:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.0.2.aar\377920f85e3df4a079cf32c6f582a277\AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.0.2.aar\377920f85e3df4a079cf32c6f582a277\AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.0.2.aar\377920f85e3df4a079cf32c6f582a277\AndroidManifest.xml:30:19-91
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.2.aar\ae7c5ca9dfdd818353a1b9fd4140dc8a\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.2.aar\ae7c5ca9dfdd818353a1b9fd4140dc8a\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.2.aar\ae7c5ca9dfdd818353a1b9fd4140dc8a\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.2.aar\ae7c5ca9dfdd818353a1b9fd4140dc8a\AndroidManifest.xml:20:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.2.aar\4ef9653ada43a28a7c74c85862d06308\AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.2.aar\4ef9653ada43a28a7c74c85862d06308\AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.2.aar\4ef9653ada43a28a7c74c85862d06308\AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.2.aar\4ef9653ada43a28a7c74c85862d06308\AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.2.aar\4ef9653ada43a28a7c74c85862d06308\AndroidManifest.xml:9:13-58
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.2.aar\083247ad9e71196bc29d46df59be55d1\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.2.aar\083247ad9e71196bc29d46df59be55d1\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\jose.garcia\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.2.aar\083247ad9e71196bc29d46df59be55d1\AndroidManifest.xml:22:13-58

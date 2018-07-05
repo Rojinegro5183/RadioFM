@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "725584512063",
+    "firebase_url": "https://radio-fm-5fb4a.firebaseio.com",
+    "project_id": "radio-fm-5fb4a",
+    "storage_bucket": "radio-fm-5fb4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725584512063:android:739b7718a0990728",
+        "android_client_info": {
+          "package_name": "com.rojinegros838907.radiofm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725584512063-cjls509109ekkol5or76v2at5sfdhcjn.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "725584512063-cjls509109ekkol5or76v2at5sfdhcjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjZd7sGGfITtTjOoftAylJ3HodSLhOels"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+}
+}
+],
+"configuration_version": "1"
+}

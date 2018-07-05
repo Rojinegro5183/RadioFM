@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="adView" type="id" />
+    <item name="nav_view" type="id" />
+    <item name="nav_view1" type="id" />
+
+
+</resources>
